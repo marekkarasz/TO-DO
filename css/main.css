@@ -1,5 +1,5 @@
 ---
 ---
 
-{% include css/reset.css %}
-{% include css/style.css %}
+{% include_relative reset.css %}
+{% include_relative style.css %}
