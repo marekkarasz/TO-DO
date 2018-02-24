@@ -1,0 +1,2 @@
+baseurl: /TO-DO
+exclude: ['README.md']
